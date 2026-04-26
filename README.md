@@ -1,5 +1,4 @@
-![ASBP]([https://raw.githubusercontent.com/Cyber-Mario1979/GPT-Assets/refs/heads/main/Alex/ASBP.png](https://github.com/Cyber-Mario1979/Cyber-Mario1979/blob/main/ASBP.png))
-# Amr Hassan
+![ASBP](https://raw.githubusercontent.com/Cyber-Mario1979/Cyber-Mario1979/refs/heads/main/ASBP.png)
 
 ## Systems Architect — AI-Augmented Workflows
 
