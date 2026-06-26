@@ -18,6 +18,7 @@ Treat it as a content/documentation repo, not a software project.
 ```
 .
 ├── README.md        # The profile content rendered on the GitHub profile page
+├── CLAUDE.md        # This file — guidance for AI assistants
 ├── ASBP.png         # Banner/header image referenced at the top of README.md (~2 MB)
 └── assets/
     └── banner.png   # Placeholder file (currently 1 byte, not in use)
@@ -45,8 +46,10 @@ The README follows a deliberate, consistent voice and structure. Preserve it whe
 - **Emphasis:** key concepts are **bold**. Keep this sparing and intentional.
 - **Structure:** top banner image → name (`#`) → role (`##`) → themed sections
   separated by `---` horizontal rules.
-- **Sections currently present:** What I Work On, Selected Systems (e.g. *Valor*,
-  *Alex*), Architectural Principles, What I'm Not Doing, Current Direction.
+- **Sections currently present (in order):** name (`# Amr Hassan`) → role
+  (`## Systems Architect — AI-Augmented Workflows`) → intro paragraph → What I Work
+  On → Selected Systems (*Valor* — CQV/regulated engineering; *Alex* — IGCSE
+  education) → Architectural Principles → What I'm Not Doing → Current Direction.
 - Closing line is an italicized statement of intent.
 - Bullet lists use `-`.
 
@@ -56,8 +59,9 @@ intact rather than restructuring wholesale, unless explicitly told otherwise.
 ## Development workflow
 
 - **Default branch:** `main`.
-- **Active working branch for AI-assisted changes:** `claude/claude-md-docs-57vf8g`.
-  Develop and commit here; do not push to `main` without explicit permission.
+- **Active working branch for AI-assisted changes:** `claude/claude-md-docs-behxdf`.
+  Develop and commit here; do not push to `main` without explicit permission. AI
+  changes land on `main` via pull request (see PR #1, which introduced this file).
 - There is nothing to build, lint, run, or test. "Verifying" a change means
   reviewing the rendered Markdown and confirming image links resolve.
 - Keep commits small and descriptively messaged (the existing history uses concise
