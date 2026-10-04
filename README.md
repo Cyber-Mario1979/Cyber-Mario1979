@@ -1,3 +1,5 @@
+![Amr Hassan — Engineering · CQV · Systems Architecture](https://raw.githubusercontent.com/Cyber-Mario1979/Cyber-Mario1979/refs/heads/main/assets/amr-hassan-banner.png)
+
 # Amr Hassan
 
 ## Systems Architect | AI-Augmented Workflows
