@@ -25,13 +25,8 @@ My background spans over two decades in regulated environments, including pharma
 
 ### Public Architecture and Resources
 
-- **[Valor Architecture Pack](https://github.com/Cyber-Mario1979/VALOR_Architecture_Pack)**: CQV architecture specifications, contracts, schemas, and validation examples. The pack is under controlled pre-freeze review for product testing and field trials; it is not approved for real-life regulated CQV/GMP use.
+- **[VALOR_LEGACY](https://github.com/Cyber-Mario1979/VALOR_LEGACY)**: A visual history of ten attempts to make AI-assisted CQV work more structured and traceable, from instruction packs and architecture to workflow engines and narrower experiments. It records incomplete work, changing goals, and lessons learned. Published for display and reference, with no open reuse license.
 - **[Alex Diagram Assets](https://github.com/Cyber-Mario1979/Alex)**: Public diagrams and versioned indexes supporting the Alex IGCSE tutor project. Its public scope is the diagram library and indexes.
-
-### Archived Work
-
-- **[AI System Builder](https://github.com/Cyber-Mario1979/AI_SYSTEM_BUILDER)**: An archived Python workflow-engine project with application code, tests, and governance records. Retained as historical work.
-- **[Valor-CQV](https://github.com/Cyber-Mario1979/Valor-CQV)**: An archived custom-GPT instruction and knowledge pack for CQV advisory and structured Work Package workflows.
 
 
 ---
