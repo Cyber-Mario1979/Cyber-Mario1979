@@ -23,10 +23,10 @@ My background spans over two decades in regulated environments, including pharma
 
 ## Selected Work
 
-### Public Architecture and Resources
+### Architecture and Resources
 
 - **[VALOR_LEGACY](https://github.com/Cyber-Mario1979/VALOR_LEGACY)**: A visual history of ten attempts to make AI-assisted CQV work more structured and traceable, from instruction packs and architecture to workflow engines and narrower experiments. It records incomplete work, changing goals, and lessons learned. Published for display and reference, with no open reuse license.
-- **[Alex Diagram Assets](https://github.com/Cyber-Mario1979/Alex)**: Public diagrams and versioned indexes supporting the Alex IGCSE tutor project. Its public scope is the diagram library and indexes.
+- **VALOR_ASCENDENT**
 
 
 ---
