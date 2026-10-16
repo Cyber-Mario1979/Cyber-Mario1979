@@ -26,7 +26,7 @@ My background spans over two decades in regulated environments, including pharma
 ### Architecture and Resources
 
 - **[VALOR_LEGACY](https://github.com/Cyber-Mario1979/VALOR_LEGACY)**: A visual history of ten attempts to make AI-assisted CQV work more structured and traceable, from instruction packs and architecture to workflow engines and narrower experiments. It records incomplete work, changing goals, and lessons learned. Published for display and reference, with no open reuse license.
-- **VALOR_ASCENDENT**
+- **VALOR_ASCENDENT**: A software project for commissioning, qualification and validation (CQV) planning, coordination and equipment User Requirements Specification (URS) preparation. **Work in progress.**
 
 
 ---
@@ -46,4 +46,4 @@ My background spans over two decades in regulated environments, including pharma
 
 I’m expanding my architectural practice into domain-agnostic AI systems that support decision-making, execution, and learning while preserving human control and accountability.
 
-*The repositories above document architecture, implementation, and supporting assets at different stages. Each repository defines its own scope and status.*
+*The projects above cover architecture, implementation, and supporting assets at different stages. Each project has its own scope and status.*
